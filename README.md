@@ -48,4 +48,6 @@ SPLIT(컬럼, 글자)[safe_offset(1)]
   - 각 단계별로 어떤 지표가 있고 개념에 대해서 명확하게 설명이 가능해야 함
 <img width="725" alt="image" src="https://user-images.githubusercontent.com/109959349/223116989-32e8a72b-5345-41a2-86ba-5ec747e7346d.png">
 
-
+- ✍ homework
+  - 분석한 흐름에 따라 EDA 리포트 만들어 보기 
+  - EDA를 하면서 생각나는 가설을 리스트업 해보기 
